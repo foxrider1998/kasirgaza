@@ -1,0 +1,416 @@
+ [LOGGER] 2025-04-11 12:17:48.316 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:17:48.850 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:20:00.383 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:20:00.449 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:21:07.129 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:21:07.145 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:21:55.676 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:21:55.736 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:22:35.748 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:22:35.818 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:23:15.942 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:23:16.026 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:23:49.898 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:23:50.012 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:25:36.150 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:25:36.171 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:04.472 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:04.573 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:15.395 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:15.548 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:46.436 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 12:27:46.544 AM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-11 01:42:13.148 AM error : controllers/kategory.controller.js:getSalesByCategory - 
+Invalid `prisma.category.findMany()` invocation:
+
+{
+  select: {
+    id: true,
+    kategoryName: true,
+    Product: {
+      select: {
+        name: true,
+        ~~~~
+        Orderdetail: {
+          where: {
+            order: {
+              date: {
+                gte: new Date("2025-04-10T17:00:00.000Z"),
+                lte: new Date("2025-04-11T16:59:59.999Z")
+              }
+            }
+          },
+          select: {
+            qty: true,
+            price: true
+          }
+        },
+?       id?: true,
+?       code?: true,
+?       barcode?: true,
+?       productName?: true,
+?       image?: true,
+?       url?: true,
+?       qty?: true,
+?       price?: true,
+?       kategoryId?: true,
+?       supplierId?: true,
+?       createdAt?: true,
+?       updatedAt?: true,
+?       kategory?: true,
+?       supplier?: true,
+?       Carts?: true,
+?       Orderreturndetail?: true,
+?       Purchasedetail?: true,
+?       _count?: true
+      }
+    }
+  }
+}
+
+Unknown field `name` for select statement on model `Product`. Available options are marked with ?.
+ [LOGGER] 2025-04-11 01:42:23.566 AM error : controllers/kategory.controller.js:getSalesByCategory - 
+Invalid `prisma.category.findMany()` invocation:
+
+{
+  select: {
+    id: true,
+    kategoryName: true,
+    Product: {
+      select: {
+        name: true,
+        ~~~~
+        Orderdetail: {
+          where: {
+            order: {
+              date: {
+                gte: new Date("2025-04-09T17:00:00.000Z"),
+                lte: new Date("2025-04-10T16:59:59.999Z")
+              }
+            }
+          },
+          select: {
+            qty: true,
+            price: true
+          }
+        },
+?       id?: true,
+?       code?: true,
+?       barcode?: true,
+?       productName?: true,
+?       image?: true,
+?       url?: true,
+?       qty?: true,
+?       price?: true,
+?       kategoryId?: true,
+?       supplierId?: true,
+?       createdAt?: true,
+?       updatedAt?: true,
+?       kategory?: true,
+?       supplier?: true,
+?       Carts?: true,
+?       Orderreturndetail?: true,
+?       Purchasedetail?: true,
+?       _count?: true
+      }
+    }
+  }
+}
+
+Unknown field `name` for select statement on model `Product`. Available options are marked with ?.
+ [LOGGER] 2025-04-11 01:45:11.512 AM error : controllers/kategory.controller.js:getSalesByCategory - 
+Invalid `prisma.category.findMany()` invocation:
+
+{
+  select: {
+    id: true,
+    kategoryName: true,
+    Product: {
+      select: {
+        name: true,
+        ~~~~
+        Orderdetail: {
+          where: {
+            order: {
+              date: {
+                gte: new Date("2025-04-02T17:00:00.000Z"),
+                lte: new Date("2025-04-03T16:59:59.999Z")
+              }
+            }
+          },
+          select: {
+            qty: true,
+            price: true
+          }
+        },
+?       id?: true,
+?       code?: true,
+?       barcode?: true,
+?       productName?: true,
+?       image?: true,
+?       url?: true,
+?       qty?: true,
+?       price?: true,
+?       kategoryId?: true,
+?       supplierId?: true,
+?       createdAt?: true,
+?       updatedAt?: true,
+?       kategory?: true,
+?       supplier?: true,
+?       Carts?: true,
+?       Orderreturndetail?: true,
+?       Purchasedetail?: true,
+?       _count?: true
+      }
+    }
+  }
+}
+
+Unknown field `name` for select statement on model `Product`. Available options are marked with ?.
+ [LOGGER] 2025-04-11 01:45:14.030 AM error : controllers/kategory.controller.js:getSalesByCategory - 
+Invalid `prisma.category.findMany()` invocation:
+
+{
+  select: {
+    id: true,
+    kategoryName: true,
+    Product: {
+      select: {
+        name: true,
+        ~~~~
+        Orderdetail: {
+          where: {
+            order: {
+              date: {
+                gte: new Date("2025-04-10T17:00:00.000Z"),
+                lte: new Date("2025-04-11T16:59:59.999Z")
+              }
+            }
+          },
+          select: {
+            qty: true,
+            price: true
+          }
+        },
+?       id?: true,
+?       code?: true,
+?       barcode?: true,
+?       productName?: true,
+?       image?: true,
+?       url?: true,
+?       qty?: true,
+?       price?: true,
+?       kategoryId?: true,
+?       supplierId?: true,
+?       createdAt?: true,
+?       updatedAt?: true,
+?       kategory?: true,
+?       supplier?: true,
+?       Carts?: true,
+?       Orderreturndetail?: true,
+?       Purchasedetail?: true,
+?       _count?: true
+      }
+    }
+  }
+}
+
+Unknown field `name` for select statement on model `Product`. Available options are marked with ?.

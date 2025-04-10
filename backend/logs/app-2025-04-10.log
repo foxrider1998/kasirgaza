@@ -1,0 +1,293 @@
+ [LOGGER] 2025-04-10 08:20:47.184 PM error : controllers/user.controller.js:loginUser - 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:13
+   | 
+12 |   provider = "mysql"
+13 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+ [LOGGER] 2025-04-10 08:38:04.892 PM error : uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+    at listenInCluster (node:net:1969:12)
+    at Server.listen (node:net:2074:7)
+    at Function.listen (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/application.js:635:24)
+    at file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/index.js:9:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ [LOGGER] 2025-04-10 08:47:47.961 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:47:58.407 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:48:00.143 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:37.744 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:38.673 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:39.125 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:39.337 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:39.469 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:49:47.513 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:56:31.750 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:56:31.801 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:56:31.984 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:57:21.190 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:57:48.785 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:57:48.790 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:135:7)
+ [LOGGER] 2025-04-10 08:58:32.920 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:58:32.925 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:134:5)
+ [LOGGER] 2025-04-10 08:58:46.498 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:134:5)
+ [LOGGER] 2025-04-10 08:59:02.346 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:135:44)
+ [LOGGER] 2025-04-10 08:59:02.481 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:135:44)
+ [LOGGER] 2025-04-10 08:59:32.249 PM error : uncaughtException: result is not defined
+ReferenceError: result is not defined
+    at loginUser (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/user.controller.js:135:44)
+ [LOGGER] 2025-04-10 08:59:50.257 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:59:50.428 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 08:59:51.617 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:00:06.128 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:00:06.282 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:00:06.530 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:00:07.168 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:00:51.913 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:04:57.757 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:05:04.365 PM error : controllers/user.controller.js:loginUser - secretOrPrivateKey must have a value
+ [LOGGER] 2025-04-10 09:10:20.085 PM error : uncaughtException: Cannot read properties of undefined (reading 'includes')
+TypeError: Cannot read properties of undefined (reading 'includes')
+    at createProduct (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/product.controller.js:35:22)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at autenticate (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/error.controller.js:25:9)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:286:9
+ [LOGGER] 2025-04-10 09:13:21.333 PM error : uncaughtException: Cannot read properties of undefined (reading 'includes')
+TypeError: Cannot read properties of undefined (reading 'includes')
+    at createProduct (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/product.controller.js:35:22)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at autenticate (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/error.controller.js:25:9)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:286:9
+ [LOGGER] 2025-04-10 09:23:08.364 PM error : uncaughtException: Cannot read properties of undefined (reading 'includes')
+TypeError: Cannot read properties of undefined (reading 'includes')
+    at createProduct (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/product.controller.js:35:22)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at autenticate (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/error.controller.js:25:9)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:286:9
+ [LOGGER] 2025-04-10 09:26:19.585 PM error : uncaughtException: Cannot read properties of undefined (reading 'includes')
+TypeError: Cannot read properties of undefined (reading 'includes')
+    at createProduct (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/product.controller.js:35:22)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at autenticate (file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/controllers/error.controller.js:25:9)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:175:3)
+    at router (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:328:13)
+    at /Users/aris/Desktop/desktop app/ANUS/anus/barcode/pos-angkringan/backend/node_modules/express/lib/router/index.js:286:9
+ [LOGGER] 2025-04-10 10:25:40.581 PM error : uncaughtException: getSalesByCategory is not defined
+ReferenceError: getSalesByCategory is not defined
+    at file:///Users/aris/Desktop/desktop%20app/ANUS/anus/barcode/pos-angkringan/backend/src/routes/category.route.js:18:52
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ [LOGGER] 2025-04-10 11:07:04.284 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:07:04.355 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:07:07.512 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:10:05.509 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:10:05.580 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:13:41.649 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:13:41.856 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:16:45.442 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:16:45.539 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:17:01.999 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:17:02.108 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:21:32.121 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:21:32.214 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:22:14.002 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
+ [LOGGER] 2025-04-10 11:22:14.094 PM error : controllers/kategory.controller.js:getCategoryById - 
+Invalid `prisma.category.findUnique()` invocation:
+
+{
+  where: {
++   id: Int
+  }
+}
+
+Argument `id` is missing.
