@@ -14,6 +14,6 @@ npm run dev > backend.log 2>&1 &
 cd ..
 
 cd frontend
-nohup npx serve -s dist -l 55664 > frontend.log 2>&1 &
+nohup npx serve -s servers -l 55664 > frontend.log 2>&1 &
 
 
