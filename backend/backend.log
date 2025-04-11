@@ -1,0 +1,21 @@
+Debugger listening on ws://127.0.0.1:59036/8ce6fe6c-32b3-4525-ad5a-0f8db67b87ae
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+> backend@1.0.0 dev
+> nodemon ./src/index.js
+
+Debugger listening on ws://127.0.0.1:59086/33d2a11a-335c-4ef8-85d3-f9c979094bd6
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+[33m[nodemon] 3.1.9[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node ./src/index.js`[39m
+Debugger listening on ws://127.0.0.1:59116/b006fd74-4d86-4420-9bac-a6416b30b006
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Server is running on 0.0.0.0:3000
+Waiting for the debugger to disconnect...
+Waiting for the debugger to disconnect...

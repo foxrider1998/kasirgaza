@@ -1,0 +1,9 @@
+Debugger listening on ws://127.0.0.1:53537/016e0788-d4c8-4352-a0e2-16987c9d59c4
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+npm error Missing script: "dev"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/aris/.npm/_logs/2025-04-11T02_56_50_347Z-debug-0.log
+Waiting for the debugger to disconnect...

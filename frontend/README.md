@@ -62,3 +62,9 @@ cpp
 Salin
 Edit
 http://123.123.123.123:3000
+
+
+
+npm install -g serve
+npm install -g pm2
+
